@@ -8,6 +8,8 @@ epub:
 		--toc-depth=2 \
 		--resource-path=../eBook \
 		--metadata title="Go 入门指南" \
+		--metadata author="Ivo Balbaert" \
+		--metadata translator="https://github.com/unknwon/the-way-to-go_ZH_CN" \
 		../eBook/directory.md \
 		../eBook/preface.md \
 		../eBook/01.1.md \

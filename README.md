@@ -15,6 +15,16 @@ master branch is source repo master branch.
 
 master_sysescool branch is mine master branch. Please send pull & request to this branch.
 
+## 生成电子书 - generate epub
+
+```bash
+git clone https://github.com/sysescool/the-way-to-go_ZH_CN
+git switch master_sysescool
+sudo apt-get install pandoc
+cd build
+make -f Makefile
+```
+
 《Go入门指南》
 ===================
 

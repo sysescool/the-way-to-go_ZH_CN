@@ -26,6 +26,7 @@ the-way-to-go.sublime-project
 the-way-to-go.sublime-workspace
 
 *.pdf
+*.epub
 
 *.html
 *.htm
